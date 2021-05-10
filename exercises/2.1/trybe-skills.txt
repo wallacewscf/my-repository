@@ -7,5 +7,5 @@ O que eu vou aprender na Trybe:
 - HTLM
 - CSS
 - HTML
-- CSS
+- REACT
 
