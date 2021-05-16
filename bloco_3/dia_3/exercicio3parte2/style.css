@@ -1,0 +1,27 @@
+div:hover {
+border-style: ridge;
+}
+div:nth-child( 3 ) {
+    color:rgb(250, 0, 0);
+    background-color:black;
+}
+div:nth-child( 4 ) {
+    color:rgb(19, 131, 4);
+    background-color:yellow;
+}
+div:nth-child( 5 ) {
+    color:rgb(54, 42, 165);
+    background-color: green;
+    font-size: 25px
+}
+div:nth-child( 6 ) {
+    color:rgb(63, 70, 0);
+    background-color: whitesmoke;
+}
+div:nth-child( 7 ) {
+    color:rgb(243, 255, 6);
+    background-color: red;
+}
+div:nth-child( odd ) {
+    font-style: italic;
+}
